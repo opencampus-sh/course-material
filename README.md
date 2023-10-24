@@ -1,1 +1,1 @@
-# course-material
+# Material for Courses Offered at opencampus.sh
