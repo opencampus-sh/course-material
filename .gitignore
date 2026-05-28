@@ -43,6 +43,8 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+applied-machine-learning/week-06/prepared_data/
+applied-machine-learning/week-06/prepared_data/chest_xray_prepared.zip
 nosetests.xml
 coverage.xml
 *.cover
