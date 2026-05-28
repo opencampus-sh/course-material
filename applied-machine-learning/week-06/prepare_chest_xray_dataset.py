@@ -418,7 +418,7 @@ For Google Colab, download the prepared archive (~1 GB) and pretrained weights f
 - `chest_xray_prepared.zip` — contains `chest_xray/` and `unseen/`
 - `{WEIGHTS_FILENAME}` — pretrained ResNet-18 weights for section 5
 
-Download `helper_utils.py` from the [course-material](https://github.com/opencampus-sh/course-material) GitHub repository.
+Download `xray_viz.py` from the [course-material](https://github.com/opencampus-sh/course-material) GitHub repository.
 
 ## Source
 
